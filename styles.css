@@ -1,6 +1,17 @@
 body{
-    background: steelblue;
+    background: #1C2833;
     font-family: Arial, Helvetica, sans-serif;
+}
+.assignment {
+    display: flex;
+    background: teal;
+    padding: 10px;
+    margin: 10px;
+}
+.assignment img {
+    width:262px;
+    height:250px;
+    padding:10px;
 }
 h1{
     color:white;
